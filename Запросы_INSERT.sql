@@ -141,6 +141,10 @@ INSERT INTO Tracks(name, duration, album)
 VALUES('Viva La Vida', '00:04:02', 12);
 INSERT INTO Tracks(name, duration, album)
 VALUES('Violet Hill', '00:03:42', 12);
+INSERT INTO Tracks(name, duration, album)
+VALUES('Money On My Mind', '00:03:14', 11);
+
+
 
 INSERT INTO Collections(name, release_year) 
 VALUES('Иностранный рок 2000-х', 2021);
